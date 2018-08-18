@@ -1,0 +1,100 @@
+package aziz;
+
+import java.util.Scanner;
+
+public class apples {
+
+
+		public static void main (String args[]){;
+//			System.out.println("Hello world!");
+//	
+//			
+//			double tuna;
+//			tuna  = 5.28 ;
+//					
+//			System.out.println("we have this much tuna: " + tuna);
+//			System.out.print("this should be on a new line");
+//			System.out.println(", this should join the end of the last line");
+//			
+//			
+//			Scanner Aziz = new Scanner(System.in);
+//			System.out.println(Aziz.nextLine());
+//			
+//			
+//			Scanner number = new Scanner(System.in);
+//			double x, y, ans;
+//			System.out.println("Enter First Number: ");
+//			x =  number.nextDouble();
+//			System.out.println("Enter Second Number: ");
+//			y =  number.nextDouble();
+//			ans = x + y;
+//			System.out.println("Answer is: " + ans);
+//			
+//			
+//			
+//			int test = 9;
+//			
+//			if (test == 9){
+//				System.out.println("test is equal to 9");
+//			}else {
+//				System.out.println("test is not equal to 9");
+//			}		
+			
+//			
+//		int boy, girl, human;
+//		boy = 10;
+//		girl = 20;
+//		human = 50;
+//		
+//		if (boy > 50 || girl > 10 && human >49){
+//			System.out.println("enter");
+//		}else {System.out.println("Do Not Enter");}
+//		}
+		
+//		int age = 10;
+//		
+//		switch(age){
+//		case 1: 
+//			System.out.println("you can crawl");
+//			break;
+//		case 2: 
+//			System.out.println("you can talk");
+//			break;
+//		case 3: 
+//			System.out.println("you can get into trouble");
+//			break;
+//		default: 
+//			System.out.println("I dont know how old you are");
+//			break;
+//		}
+		
+		
+		
+//		int counter =0;
+//		
+//		while (counter < 10){
+//			System.out.println(counter);
+//			counter++;
+//		}
+		
+		
+//		Tuna TunaObject = new Tuna();
+//		TunaObject.simpleMessage();
+//		TunaObject.main(args);
+		
+		
+		
+		System.out.println("hello");
+		
+		
+		
+		
+		
+		}
+		
+			
+		// TODO Auto-generated constructor stub
+	}
+
+	
+
